@@ -1,0 +1,10 @@
+npm init -y
+npm i express dotenv
+
+Web server en el siguiente
+    app.js
+
+en archivo .env
+    .env
+
+npm i cors
