@@ -8,3 +8,8 @@ en archivo .env
     .env
 
 npm i cors
+
+contraseñas
+npm i bcryptjs
+
+npm i express-validator
